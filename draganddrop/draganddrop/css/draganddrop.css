@@ -1,0 +1,140 @@
+
+#dnd {
+	min-width: 1150px;
+}
+
+#dnd-main {
+	position: relative;
+	width: 763px;
+	height: 450px;
+	margin-bottom: 35px;
+	border: 1px solid black;
+	float: left;
+	border-radius: 5px;
+}
+
+#dnd-top-right {
+	float: left;
+	position: relative;
+	min-height: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 400px;
+	height: 220px;
+	background-color: #fff;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#dnd-right-price {
+	font-size: 130%;
+	position: absolute;
+	right: 5px;
+	top: 5px;
+	color: black;
+	text-shadow: 5px 0px 0px 5px #000;
+}
+
+#dnd-bottom-right {
+	float: left;
+	position: relative;
+	min-height: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 400px;
+	height: 220px;
+	background-color: #ddd;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#dnd-top-right-img {
+	position: absolute;
+	top: 3px;
+	left: 0px;
+	width: 412px;
+	height: 180px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#dnd-caddie img {
+	position: relative;
+	margin: 0 auto;
+	width: 25%;
+	left: 125px;
+	top: 40px;
+}
+
+#dnd-cadenas img {
+	position: relative;
+	top: 15px;
+}
+
+#dnd-right-text {
+	position: absolute;
+	top: 193px;
+	left: 10px;
+	font-size: 115%;
+	color: black;
+}
+	
+#dnd-main-img {
+	width: 100%;
+	height: 100%;
+}
+
+#dnd-tapis {
+	position: absolute;
+	top: 250px;
+	left: 160px;
+	width: 425px;
+	height: 198px;
+/*	background-color: rgba(0,255,0,0.2);*/
+}
+
+#dnd-table {
+	position: absolute;
+	top: 230px;
+	left: 328px;
+	width: 110px;
+	height: 148px;
+/*	background-color: rgba(255,0,0,0.2);*/
+}
+
+#dnd-canape1 {
+	position: absolute;
+	top: 137px;
+	left: 7px;
+	width: 290px;
+	height: 277px;
+/*	background-color: rgba(255,255,0,0.2);*/
+}
+
+#dnd-canape2 {
+	position: absolute;
+	top: 142px;
+	left: 468px;
+	width: 288px;
+	height: 255px;
+/*	background-color: rgba(255,0,255,0.2);*/
+}
+
+#dnd-lampadaire {
+	position: absolute;
+	top: 60px;
+	left: 550px;
+	width: 80px;
+	height: 90px;
+/*	background-color: rgba(0,0,255,0.2);*/
+}
+
+#dnd-bougeoir {
+	position: absolute;
+	top: 175px;
+	left: 340px;
+	width: 70px;
+	height: 70px;
+/*	background-color: rgba(255,255,0,0.2);*/
+}
